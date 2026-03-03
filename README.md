@@ -17,7 +17,7 @@ While `OpenDAS-Stream` handles extreme-scale data throughput, this suite provide
 ## 📊 Research Showcase: Mining Event Localization
 The following visualization demonstrates the suite's ability to synchronize kilometer-scale fiber data with precise geospatial satellite imagery, providing a direct link between acoustic energy release and physical mine excavation stages.
 
-![Real-time Spatiotemporal Mapping](./spatiotemporal_mapping_demo.jpg)
+![Real-time Spatiotemporal Mapping](./spatiotemporal_mapping_demo.png)
 *Figure: Simultaneous display of DAS wavefield propagation (left) and its corresponding geospatial projection on the mine site (right).*
 
 ## 🛠️ Module Breakdown
